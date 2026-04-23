@@ -140,6 +140,7 @@ Then update frontend config if needed.
 - Add security deposit refund workflow
 - Add property images and metadata
 - Add unit tests and coverage for edge cases
-## 🎥 Demo Video
+##  🎥 Demo Video
 
-[Click here to watch/download the demo](https://github.com/trawat06/decentralized-property-rental-dapp/releases/download/v1.0/Tanvi.mp4)
+▶️ Watch here:  
+https://github.com/trawat06/decentralized-property-rental-dapp/releases/download/v1.0/Tanvi.mp4
